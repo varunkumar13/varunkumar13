@@ -4,5 +4,5 @@ int main{
     intr k=20;
     printf("value=",&i);
     printf("value=",&k);
-    
+    printf("value=",&k);
 }
